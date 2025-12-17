@@ -1,0 +1,5 @@
+{
+  "name": "Game Scout retry",
+  "description": "A multi-theme videogame price tracking tool powered by Gemini. Tracks prices across stores, estimates playtime, and provides indie recommendations.",
+  "requestFramePermissions": []
+}
